@@ -1,5 +1,7 @@
 import SectionSvg from "../assets/svg/SectionSvg";
 
+
+// accepting some props
 const Section = ({
   className,
   id,
